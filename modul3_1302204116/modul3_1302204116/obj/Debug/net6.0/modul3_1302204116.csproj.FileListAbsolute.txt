@@ -1,0 +1,15 @@
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.csproj.AssemblyReference.cache
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.GeneratedMSBuildEditorConfig.editorconfig
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.AssemblyInfoInputs.cache
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.AssemblyInfo.cs
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.csproj.CoreCompileInputs.cache
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\bin\Debug\net6.0\modul3_1302204116.exe
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\bin\Debug\net6.0\modul3_1302204116.deps.json
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\bin\Debug\net6.0\modul3_1302204116.runtimeconfig.json
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\bin\Debug\net6.0\modul3_1302204116.dll
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\bin\Debug\net6.0\modul3_1302204116.pdb
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.dll
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\refint\modul3_1302204116.dll
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.pdb
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\modul3_1302204116.genruntimeconfig.cache
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 3\modul3_1302204116\modul3_1302204116\obj\Debug\net6.0\ref\modul3_1302204116.dll
