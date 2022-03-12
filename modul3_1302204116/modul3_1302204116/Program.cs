@@ -1,4 +1,6 @@
-﻿namespace Program
+﻿using modul3_1302204116;
+
+namespace Program
 {
     class Program
     {
@@ -35,9 +37,28 @@
             Console.WriteLine(nb12 + "       " + ph.GetKodebuah(nb12));
             Console.WriteLine(nb13 + "        " + ph.GetKodebuah(nb13));
             Console.WriteLine(nb14 + "     " + ph.GetKodebuah(nb14));
+            Console.WriteLine("\n ");
 
+            PosisiKarakterGame posisiKarakter = new PosisiKarakterGame();
+            Console.WriteLine(posisiKarakter.currentState);
 
-            
+            posisiKarakter.activeTrigger(PosisiKarakterGame.Trigger.TombolX);
+            Console.Write("Posisi Sedang : ");
+            Console.Write(posisiKarakter.currentState);
+
+            Console.WriteLine("\n ");
+
+            Console.Write(posisiKarakter.currentState);
+            posisiKarakter.activeTrigger(PosisiKarakterGame.Trigger.TombolW);
+            Console.Write("Posisi Sedang : ");
+            Console.Write(posisiKarakter.currentState);
+
+            Console.WriteLine("\n ");
+
+            Console.Write(posisiKarakter.currentState);
+            posisiKarakter.activeTrigger(PosisiKarakterGame.Trigger.TombolW);
+            Console.Write("Posisi Sedang : ");
+            Console.Write(posisiKarakter.currentState);
         }
     }
 }
